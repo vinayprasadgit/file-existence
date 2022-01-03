@@ -1,4 +1,4 @@
-@Library('shared-library')
+@Library('file-existence')
 import com.mcnz.uatInput
 def uatInput = new uatInput()
 
